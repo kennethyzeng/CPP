@@ -6,7 +6,8 @@ https://stackoverflow.com/questions/27924050/expected-at-end-of-declaration-vect
 
 Solution: add -std=c++14 
 "cpp": "cd $dir && g++ -std=c++14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
-
+Under "Code-runner: Executor Map" -> click on "Edit in setting.json"
+in "code-runner.executorMap"
 
 #2 how to terminate while(cin>>str)
 invliad input or end of file
