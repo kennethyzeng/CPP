@@ -28,7 +28,7 @@ int main()
                 c = toupper(c);
         }
 
-        cout << word << " ";
+        cout << word<" ";
     }
 
     return 0;
