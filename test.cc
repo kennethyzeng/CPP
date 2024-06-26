@@ -28,7 +28,7 @@ int main()
                 c = toupper(c);
         }
 
-        cout << word<<<CS" ";
+        cout << word<<<CSkdjfal;j" ";
     }
 
     return 0;
